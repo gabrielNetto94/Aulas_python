@@ -1,4 +1,3 @@
-
 nome = input('Digite o nome do aluno: ')
 
 valid_nota = False

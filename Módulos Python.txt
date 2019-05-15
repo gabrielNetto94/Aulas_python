@@ -1,0 +1,5 @@
+pyGame - para jogos
+wxPython - para GUI
+sqlAlchemy - base de dados que usam SQL
+Beautiful soup - extrair conteúdo WEB
+sciPy - conjunto de módulos
